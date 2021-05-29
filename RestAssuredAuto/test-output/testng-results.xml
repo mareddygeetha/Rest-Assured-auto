@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3741" started-at="2021-05-29T12:43:39Z" finished-at="2021-05-29T12:43:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3741" started-at="2021-05-29T12:43:39Z" finished-at="2021-05-29T12:43:42Z">
+      <class name="Test.DeleteMethod">
+        <test-method status="PASS" signature="deleteMethod()[pri:0, instance:Test.DeleteMethod@5dfcfece]" name="deleteMethod" duration-ms="3719" started-at="2021-05-29T18:13:39Z" finished-at="2021-05-29T18:13:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteMethod -->
+      </class> <!-- Test.DeleteMethod -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
